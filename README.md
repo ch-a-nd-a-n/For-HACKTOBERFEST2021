@@ -18,3 +18,11 @@ I am a undergraduate student at MS Ramaiah Institute of Technology, Bangalore. I
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c02kr&theme=graywhite&background=000000&border=DDD9D6&stroke=FFFCFD&ring=F8FF02&fire=FF6E0F&currStreakNum=FEFFF9&sideNums=FFFFFF&currStreakLabel=FFCD9B&sideLabels=FFFFFF&dates=5B3BDD)](https://git.io/streak-stats)<img  src="https://github-readme-stats.vercel.app/api?username=c02kr&show_icons=true&hide_border=true&theme=dark" width="40%" align="right" >
 
 <br>
+<div align="right">
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=c02kr.c02kr" width="30%" align="right" >
+
+</div>
+<!-- ![My  Github status](https://github-readme-stats.vercel.app/api?username=c02kr&count_private=true&show_icons=true&theme=radical) -->
+
+
+### My Most Used Languages Are
